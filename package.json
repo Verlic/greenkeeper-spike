@@ -1,0 +1,22 @@
+{
+  "name": "greenkeeper-spike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Verlic/greenkeeper-spike.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Verlic/greenkeeper-spike/issues"
+  },
+  "homepage": "https://github.com/Verlic/greenkeeper-spike#readme",
+  "dependencies": {
+    "greenkeeper-dependency": "verlic/greenkeeper-dependency#0.0.1"
+  }
+}
