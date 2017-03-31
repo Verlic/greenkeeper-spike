@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/Verlic/greenkeeper-spike#readme",
   "dependencies": {
-    "babel": "^5.0.0",
+    "babel": "5.0.0",
     "greenkeeper-dependency": "github:verlic/greenkeeper-dependency#0.0.1",
-    "request": "^2.67.0"
+    "request": "2.67.0"
   }
 }
